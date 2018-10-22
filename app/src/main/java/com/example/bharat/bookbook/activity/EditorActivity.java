@@ -23,7 +23,7 @@ import android.widget.Toast;
 import com.example.bharat.bookbook.R;
 import com.example.bharat.bookbook.data.BookContract;
 
-public class EditorActivity extends AppCompatActivity implements LoaderManager.LoaderCallbacks<Cursor>{//LoaderManager.LoaderCallbacks<Cursor> {
+public class EditorActivity extends AppCompatActivity implements LoaderManager.LoaderCallbacks<Cursor>{
 
     private static final int EXISTING_BOOK_LOADER = 0;
 
